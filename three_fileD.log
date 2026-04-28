@@ -1,0 +1,74 @@
+#
+
+Normal Ping
+PING mirror.tngnet.com (45.88.5.78) 56(84) bytes of data.
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=1 ttl=47 time=13.0 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=2 ttl=47 time=12.8 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=3 ttl=47 time=12.4 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=4 ttl=47 time=12.8 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=5 ttl=47 time=12.7 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=6 ttl=47 time=12.5 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=7 ttl=47 time=12.9 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=8 ttl=47 time=12.6 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=9 ttl=47 time=12.6 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=10 ttl=47 time=12.8 ms
+
+--- mirror.tngnet.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 12.436/12.713/12.968/0.169 ms
+While large file transfer
+PING mirror.tngnet.com (45.88.5.78) 56(84) bytes of data.
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=1 ttl=47 time=13.2 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=2 ttl=47 time=13.5 ms
+2026-04-26 23:51:26 (82.5 MB/s) - ‘/dev/null’ saved [104857600/104857600]
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=3 ttl=47 time=12.8 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=4 ttl=47 time=12.8 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=5 ttl=47 time=12.6 ms
+
+--- mirror.tngnet.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 12.644/12.974/13.501/0.323 ms
+PING mirror.tngnet.com (45.88.5.78) 56(84) bytes of data.
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=1 ttl=47 time=12.5 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=2 ttl=47 time=12.4 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=3 ttl=47 time=12.5 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=4 ttl=47 time=12.8 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=5 ttl=47 time=12.7 ms
+
+--- mirror.tngnet.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 12.416/12.599/12.791/0.144 ms
+2026-04-26 23:51:34 (17.4 MB/s) - ‘/dev/null’ saved [104857600/104857600]
+PING mirror.tngnet.com (45.88.5.78) 56(84) bytes of data.
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=1 ttl=47 time=12.1 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=2 ttl=47 time=12.2 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=3 ttl=47 time=12.4 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=4 ttl=47 time=12.3 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=5 ttl=47 time=11.9 ms
+
+--- mirror.tngnet.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 11.918/12.189/12.411/0.169 ms
+2026-04-26 23:51:40 (17.4 MB/s) - ‘/dev/null’ saved [104857600/104857600]
+PING mirror.tngnet.com (45.88.5.78) 56(84) bytes of data.
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=1 ttl=47 time=12.2 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=2 ttl=47 time=12.1 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=3 ttl=47 time=12.0 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=4 ttl=47 time=12.0 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=5 ttl=47 time=12.3 ms
+
+--- mirror.tngnet.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 12.016/12.136/12.346/0.126 ms
+2026-04-26 23:51:46 (16.3 MB/s) - ‘/dev/null’ saved [104857600/104857600]
+PING mirror.tngnet.com (45.88.5.78) 56(84) bytes of data.
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=1 ttl=47 time=12.2 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=2 ttl=47 time=13.8 ms
+2026-04-26 23:51:47 (92.3 MB/s) - ‘/dev/null’ saved [104857600/104857600]
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=3 ttl=47 time=12.4 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=4 ttl=47 time=12.6 ms
+64 bytes from mirror.tngnet.com (45.88.5.78): icmp_seq=5 ttl=47 time=12.6 ms
+
+--- mirror.tngnet.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 12.211/12.721/13.758/0.541 ms
